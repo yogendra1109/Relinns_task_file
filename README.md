@@ -3,6 +3,12 @@
 ## Overview
 
 This project involves creating a chatbot that interacts with a given website .
+
+## Screenshots
+
+![Chatbot Interface 1](screenshorts/chatbot.jpeg)
+![Chatbot Interface 2](screenshorts/Chatbot_2.jpeg)
+
 ## Project Structure
 
 - **`web_scrape.py`**: Contains functions for web scraping, extracting website content, and storing it in a pickled file (`data.pkl`). It utilizes the BeautifulSoup library for parsing HTML.
